@@ -16,7 +16,6 @@ This is the frontend of a simple Blog Web Application built with React, Vite, an
 - Axios
 - Vite
 - Tailwind CSS
-- 
 ## Project Structure
   ``` bash
   my-blog-frontend/
@@ -38,5 +37,7 @@ This is the frontend of a simple Blog Web Application built with React, Vite, an
 └── README.md
 
   ```
+
+## Screenshot
 
 
