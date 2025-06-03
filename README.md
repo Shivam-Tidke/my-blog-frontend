@@ -1,6 +1,7 @@
-# Blog Web App – Frontend
+# Blog App – Frontend
 This is the frontend of a simple Blog Web Application built with React, Vite, and Tailwind CSS. It allows users to create blog posts, view all posts, and read individual post details.
-
+# Backend for Blog App
+[my-blog-backend](https://github.com/Shivam-Tidke/my-blog-backend)
 ## Features
 
 - View all blog posts
