@@ -38,6 +38,17 @@ This is the frontend of a simple Blog Web Application built with React, Vite, an
 
   ```
 
-## Screenshot
+## Screenshots
+
+###  Home Page
+![Home Page](https://drive.google.com/uc?export=view&id=1hChu0G-1S0xBt0XCIR7QuyDdCGIkuCAo)
+
+### Create Post
+![Create Post](https://drive.google.com/uc?export=view&id=1zZ-Wl2LeVzllNpJ5H_hR27_Zd4BN_lAD)
+
+### Post Details
+![Post Details](https://drive.google.com/uc?export=view&id=1Xf84dDwh7kw1Mh-Qu3-3OBYRsGF05uWv)
+
+
 
 
